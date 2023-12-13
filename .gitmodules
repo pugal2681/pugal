@@ -1,0 +1,3 @@
+[submodule "libgit2"]
+	path = GitUpKit/Third-Party/libgit2
+	url = https://github.com/git-up/libgit2.git
